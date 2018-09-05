@@ -1,3 +1,7 @@
+
 oranges
 pineapple
 green apple
+
+i have 6 oranges
+

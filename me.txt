@@ -1,4 +1,9 @@
+<<<<<<< HEAD
 Hi this Is Keerthana
 hello
 how r u
 bye
+=======
+Hi this Is Keerthana nimmagadda
+kittu made changes
+>>>>>>> e0a2422e1d389ebe94a7d2cfd9707800df800208
